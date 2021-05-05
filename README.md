@@ -6,7 +6,7 @@ This document goes over the global lines of protecting you, your accounts and yo
 
 One of the most important things to do is to ensure that all accounts are safe. This can simply be done by making your passwords very difficult to crack. But then you must remember all of them. That's what a password manager if for. It automatically fills everything in for you. 2 factor authentication is also an important step towards safety.
 
-### Password Manager ([Bitwarden](https://bitwarden.com/))
+### Password Manager [![bitwarden](./assets/icons/20x20/bitwarden.png)](https://bitwarden.com/)
 
 There are many options for password managers. And also with many different prizes. Some are also free. One of them is Bitwarden. This password manager is open-source and has a free plan. If you run the code yourself you even get the premium features for free, but they are not really necessary for a normal user.
 
@@ -14,7 +14,7 @@ Because the data is encrypted on your own device, even Bitwarden doesn't know th
 
 ![bitwarden](./assets/bitwarden/bitwarden.png)
 
-### 2FA - 2 Factor Authentication ([Authy](https://authy.com/))
+### 2FA - 2 Factor Authentication [![authy](./assets/icons/20x20/authy.png)](https://authy.com/)
 
 2FA is a technology that takes security to the next level. When you normally log in with only a password, you must now also fill in a number code. This code changes every 30 seconds. As a result, your account is safer and less likely to be hacked.
 
@@ -26,7 +26,7 @@ If you use 2FA, always take your phone with you. **You can't get into your accou
 
 ![authy](./assets/authy/authy.png)
 
-### Monitors on data breach ([Firefox Monitor](https://monitor.firefox.com/))
+### Monitors on data breach [![firefox-monitor](./assets/icons/20x20/firefox-monitor.png)](https://monitor.firefox.com/)
 
 There are regularly services that are hacked and where the data is sold on the black market. With a monitor service you can keep an eye on whether your data has been taken with a data breach or hack. With FireFox Monitor you can enter emails that need to be scanned for data breaches. The service will keep you up to date if something happens to your data and will send an email.
 
