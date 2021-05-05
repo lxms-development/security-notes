@@ -108,7 +108,7 @@ TODO: This section will be filled in later
 
 #### Brave extensions
 
-"General"
+`General`
 
 - [Link](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflCldnnApblkhphbgPGGdiikPpg) - DuckDuckGo Privacy Essentials
 - [Link](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpaMameJdnhcphJbkeiaGm) - uBlock Origin
@@ -150,7 +150,7 @@ Windows automatically sends data from your computer to Microsoft. These settings
 
 ### Bloatware
 
-Windows comes with many programs that you don't need. With [PyDebloatX](https://pydebloattx.com/) you can easily find all the programs that you do not want to remove them, but also find them back in the Microsoft Store. In addition, [Windows10debloiter](https://github.com/sycnex/windows10debloofer) is a very good tool for removing things that are deeper integrated into Windows, such as Cortana, Edge PDF and Telemetry.
+Windows comes with many programs that you don't need. With [PyDebloatX](https://pydebloattx.com/) you can easily find all the programs that you do not want to remove them, but also find them back in the Microsoft Store. In addition, [Windows10debloater](https://github.com/sycnex/windows10debloater) is a very good tool for removing things that are deeper integrated into Windows, such as Cortana, Edge PDF and Telemetry.
 
 ```txt
 TODO: This section will be filled in later
@@ -162,4 +162,4 @@ Although you may have another browser installed, Windows still opens Edge in som
 
 But there is a program for that. [EdgeDeflector](https://github.com/da2x/edgedeflector) is a tool that tells Windows that it is equal to Edge. You must then choose whether to open your Edge or EdgeDeflector. When you open EdgeDeflector, it will open the default browser you set. It will only ask once to choose, so don't worry about the popup.
 
-In combination with the Firefox extension [Bing to DuckDuckGo](https://addons.mozilla.org/en-us/firefox/addon/bingtoduckduckgo) you can make sure all searches go through DuckDuckGo, which is better to use as explained [here](#search-engine). DuckDuckgo "Bangs" also work here too!
+In combination with the Firefox extension [Bing to DuckDuckGo](https://addons.mozilla.org/en-us/firefox/addon/bingtoduckduckgo) you can make sure all searches go through DuckDuckGo, which is better to use as explained [here](#search-engine). DuckDuckGo "Bangs" also work here too!
