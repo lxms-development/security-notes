@@ -30,7 +30,9 @@ If you use 2FA, always take your phone with you. **You can't get into your accou
 
 ![authy](./assets/authy/authy.png)
 
-### ![firefox-monitor](./assets/icons/128x128/firefox-monitor.png) Monitors on data breach: [Firefox Monitor](https://monitor.firefox.com/)
+### Monitors on data breach: [Firefox Monitor](https://monitor.firefox.com/)
+
+![firefox-monitor](./assets/icons/128x128/firefox-monitor.png)
 
 There are regularly services that are hacked and where the data is sold on the black market. With a monitor service you can keep an eye on whether your data has been taken with a data breach or hack. With FireFox Monitor you can enter emails that need to be scanned for data breaches. The service will keep you up to date if something happens to your data and will send an email.
 
