@@ -2,6 +2,30 @@
 
 This document goes over the global lines of protecting you, your accounts and your data. Not all steps are required, but are recommended. Keep in mind that these changes will be different than your normal Chrome/Google configuration, and is selected to work as closely to that as possible.
 
+## Table of contents
+
+- [Security Notes - Dummy Guide](#security-notes---dummy-guide)
+  - [Table of contents](#table-of-contents)
+  - [Passwords and accounts](#passwords-and-accounts)
+    - [Password Manager: Bitwarden](#password-manager-bitwarden)
+    - [2FA - 2 Factor Authentication: Authy](#2fa---2-factor-authentication-authy)
+    - [Monitors on data breach: Firefox Monitor](#monitors-on-data-breach-firefox-monitor)
+  - [Browser](#browser)
+    - [1st browser of choice: Firefox](#1st-browser-of-choice-firefox)
+      - [Firefox Settings](#firefox-settings)
+      - [Firefox extensions](#firefox-extensions)
+    - [2nd browser of choice: Brave](#2nd-browser-of-choice-brave)
+      - [Brave settings](#brave-settings)
+      - [Brave extensions](#brave-extensions)
+  - [Search engine](#search-engine)
+    - [The better alternative: DuckDuckGo](#the-better-alternative-duckduckgo)
+  - [Windows](#windows)
+    - [Settings menu](#settings-menu)
+    - [Windows Defender](#windows-defender)
+    - [A simple tool: PyDebloatX](#a-simple-tool-pydebloatx)
+    - [Going to the next level: Windows10Debloater](#going-to-the-next-level-windows10debloater)
+    - [The final step: EdgeDeflector](#the-final-step-edgedeflector)
+
 ## Passwords and accounts
 
 One of the most important things to do is to ensure that all accounts are safe. This can simply be done by making your passwords very difficult to crack. But then you must remember all of them. That's what a password manager if for. It automatically fills everything in for you. 2 factor authentication is also an important step towards safety.
@@ -117,27 +141,23 @@ DuckDuckGo is an alternative search engine that doesn't track you. The results a
 
 You also have "[Bangs](https://duckduckgo.com/bang)". These are short sets from characters that you put in front of your search. If you want to find something on Wikipedia directly, then type `!w DuckDuckGo` to search for DuckDuckGo on Wikipedia.
 
-## IDFA (identifier for advertisers)
-
-On phones there is something like an IDFA. Almost all apps use that to send your data to a server. With that number that data is linked to you. You can reset this how often you want. You also have to turn the personalization of ads. This can be done like this:
-
-```txt
-TODO: This section will be filled in later
-```
-
-```txt
-This section will be expanded as soon as this can be turned off.
-```
-
-## Windows settings
+## Windows
 
 Not only the browser must be protected. The Windows installation itself must also. the next few chapters will go over some things you can do to make your Windows instalation cleaner, more private and more secure.
 
-### The normal settings menu
+### Settings menu
 
-Windows automatically sends data from your computer to Microsoft. These settings are on, but can also be turned off. Also, Windows uses your bandwidth to install updates on other Windows computers. As a result, your internet is slow. You can also disable this.
+![settings](./assets/icons/96x96/settings.png)
 
-As you install Windows fresh or you buy a new computer with Windows, both ways you end up with a lot of apps that you will never use. For some people that is the Feedback Hub, for others the Xbox Game Bar. Some People also dislike Microsoft Edge, which will always open when searching with the Windows Search Bar. Others might want to completely remove OneDrive as well.
+Windows automatically sends data from your computer to Microsoft. These settings are on, but can also be turned off. Also, Windows uses your bandwidth to install updates on other Windows computers. As a result, your internet is slow. You can also disable this. Click [here](./details/WINDOWS-SETTINGS.md) to see how to disable those settings.
+
+### Windows Defender
+
+![defender](./assets/icons/96x96/defender.png)
+
+Always make sure that there are only green checkmarks in the Windows Defender. If not, follow each sections description to fix up the errors.
+
+![defender-in-action](./assets/windows-defender/defender.png)
 
 ### A simple tool: PyDebloatX
 
