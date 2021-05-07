@@ -2,6 +2,10 @@
 
 ## Firefox Settings
 
+![firefox](../assets/icons/256x256/firefox.png)
+
+<p><img src="../assets/icons/256x256/firefox.png" alt="firefox"></p>
+
 First, set that to DuckDuckGo in the dropdown menu. Along with that, turn off search suggestions. This is a personal preference, but will make the amount of data send to the server less. These settings can be changed here:
 
 ```txt
@@ -34,4 +38,4 @@ Last, you can either enable Firefox to delete all browsing data and cookies, or 
 
 ![history](../assets/firefox/history.png)
 
-[Go back to the main document](../README.md)
+[Go back to the main document](../README.md) or [Continue where you left off](../README.md##1st-browser-of-choice-firefox)
