@@ -6,4 +6,6 @@
 
 <!-- Content -->
 
-[Go back to the main document](../README.md)
+---
+
+[Go back](../README.md) or [continue where you left off](../README.md#)

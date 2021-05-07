@@ -81,11 +81,7 @@ Brave is another good alternative. Where Firefox was built off the ground, Brave
 
 #### Brave settings
 
-Almost all Brave's settings are good out of the box. The only thing that is not good is their own crypto currency. You can earn this by viewing ads. However, this is not realistic with how little money you get. There are some settings that need to be changed to completely disable this:
-
-```txt
-TODO: This section will be filled in later
-```
+Almost all Brave's settings are good out of the box. The only thing that is not good is their own crypto currency. You can earn this by viewing ads. However, this is not realistic with how little money you get. Click [here](./details/BRAVE-SETTINGS.md) to see all recommended settings for Brave.
 
 #### Brave extensions
 
@@ -143,7 +139,7 @@ PyDebloatX is a small tool which allows you to uninstall most of the default app
 
 ![powershell](./assets/icons/128x128/powershell.png)
 
-Windows10Debloater is a more advanced tool to remove other programs and services that lie deeper into Windows. **That makes this tool more dangerous to use, but isn't too risky.** With this, you can completely remove OneDrive, telemetry and other things like registry keys that are not used anymore. The interface may freeze, but in the terminal it's continuing to work. Just wait till it's back.
+Windows10Debloater is a more advanced tool to remove other programs and services that lay deeper into Windows. **That makes this tool more dangerous to use, but isn't too risky.** With this, you can completely remove OneDrive, telemetry and other things like registry keys that are not used anymore. The interface may freeze, but in the terminal it's continuing to work. Just wait till it's back.
 
 My recommened options are to disable Cortana and edge PDF, then disable telemetry, uninstall OneDrive and lastm remove the bloatware regkeys.
 
