@@ -174,6 +174,8 @@ PyDebloatX is a small tool which allows you to uninstall most of the default app
 
 #### Going to the next level: [Windows10Debloater](https://github.com/sycnex/windows10debloater)
 
+![powershell](./assets/icons/128x128/powershell.png)
+
 Windows10Debloater is a more advanced tool to remove other programs and services that lie deeper into Windows. **That makes this tool more dangerous to use, but isn't too risky.** With this, you can completely remove OneDrive, telemetry and other things like registry keys that are not used anymore. The interface may freeze, but in the terminal it's continuing to work. Just wait till it's back.
 
 My recommened options are to disable Cortana and edge PDF, then disable telemetry, uninstall OneDrive and lastm remove the bloatware regkeys.
@@ -181,5 +183,7 @@ My recommened options are to disable Cortana and edge PDF, then disable telemetr
 ![windows10debloater-in-action](./assets/windows10debloater/windows10debloater-in-action.png)
 
 #### The final step: [EdgeDeflector](https://github.com/da2x/edgedeflector)
+
+![edgedelfector](./assets/icons/128x128/edgedeflector.png)
 
 EdgeDeflector is a tool that intercepts Edge links, and modifies them to be opened in the default browser. That way, Edge will never open again. In combination with the Firefox extension [Bing to DuckDuckGo](https://addons.mozilla.org/en-us/firefox/addon/bingtoduckduckgo) you can make sure all searches go through DuckDuckGo, which is better to use as explained [here](#search-engine). DuckDuckGo "Bangs" also work here too!
