@@ -36,4 +36,4 @@ Last, you can either enable Firefox to delete all browsing data and cookies, or 
 
 ![history](../assets/firefox/history.png)
 
-[Go back to the main document](../README.md) or [Continue where you left off](../README.md##1st-browser-of-choice-firefox)
+[Go back to the main document](../README.md) or [Continue where you left off](../README.md#1st-browser-of-choice-firefox)

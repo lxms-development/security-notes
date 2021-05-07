@@ -50,8 +50,7 @@ Firefox is one of Chrome's largest opponents. But where Chrome is from Google, F
 
 #### Firefox Settings
 
-There are things that need to be adjusted.
-First is the default search engine. As explained in [this](#search-engine) section, Google isn't the best search engine to use. Click [here](./details/FIREFOX-SETTINGS.md) to see the recommended settings.
+Right out of the box, Firefox isn't set up correctly yet. Click [here](./details/FIREFOX-SETTINGS.md) to see all of the recommended settings for Firefox.
 
 #### Firefox extensions
 
@@ -130,11 +129,9 @@ Not only the browser must be protected. The Windows installation itself must als
 
 Windows automatically sends data from your computer to Microsoft. These settings are on, but can also be turned off. Also, Windows uses your bandwidth to install updates on other Windows computers. As a result, your internet is slow. You can also disable this.
 
-### Bloatware
-
 As you install Windows fresh or you buy a new computer with Windows, both ways you end up with a lot of apps that you will never use. For some people that is the Feedback Hub, for others the Xbox Game Bar. Some People also dislike Microsoft Edge, which will always open when searching with the Windows Search Bar. Others might want to completely remove OneDrive as well.
 
-#### A simple tool: [PyDebloatX](https://pydebloatx.com/)
+### A simple tool: [PyDebloatX](https://pydebloatx.com/)
 
 ![pydebloatx](./assets/icons/128x128/pydebloatx.png)
 
@@ -142,7 +139,7 @@ PyDebloatX is a small tool which allows you to uninstall most of the default app
 
 ![pydebloatx-in-action](./assets/pydebloatx/pydebloatx-in-action.png)
 
-#### Going to the next level: [Windows10Debloater](https://github.com/sycnex/windows10debloater)
+### Going to the next level: [Windows10Debloater](https://github.com/sycnex/windows10debloater)
 
 ![powershell](./assets/icons/128x128/powershell.png)
 
@@ -152,7 +149,7 @@ My recommened options are to disable Cortana and edge PDF, then disable telemetr
 
 ![windows10debloater-in-action](./assets/windows10debloater/windows10debloater-in-action.png)
 
-#### The final step: [EdgeDeflector](https://github.com/da2x/edgedeflector)
+### The final step: [EdgeDeflector](https://github.com/da2x/edgedeflector)
 
 ![edgedelfector](./assets/icons/128x128/edgedeflector.png)
 
