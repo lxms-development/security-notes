@@ -8,7 +8,7 @@ One of the most important things to do is to ensure that all accounts are safe. 
 
 ### Password Manager: Bitwarden
 
-![bitwarden](./assets/icons/96x96/bitwarden.png)
+[![bitwarden](./assets/icons/96x96/bitwarden.png)](https://bitwarden.com/)
 
 [🌐 Website](https://bitwarden.com/)
 
@@ -20,7 +20,7 @@ Because the data is encrypted on your own device, even Bitwarden doesn't know th
 
 ### 2FA - 2 Factor Authentication: Authy
 
-![authy](./assets/icons/96x96/authy.png)
+[![authy](./assets/icons/96x96/authy.png)](https://authy.com/)
 
 [🌐 Website](https://authy.com/)
 
@@ -36,7 +36,7 @@ If you use 2FA, always take your phone with you. **You can't get into your accou
 
 ### Monitors on data breach: Firefox Monitor
 
-![firefox-monitor](./assets/icons/96x96/firefox-monitor.png)
+[![firefox-monitor](./assets/icons/96x96/firefox-monitor.png)](https://monitor.firefox.com/)
 
 [🌐 Website](https://monitor.firefox.com/)
 
@@ -50,7 +50,7 @@ It is very important to use the correct browser and search engine. that way, you
 
 ### 1st browser of choice: Firefox
 
-![firefox](./assets/icons/96x96/firefox.png)
+[![firefox](./assets/icons/96x96/firefox.png)](https://firefox.com/)
 
 [🌐 Website](https://firefox.com/)
 
@@ -83,7 +83,7 @@ These extensions are my recommend extensions that i use with Firefox. They block
 
 ### 2nd browser of choice: Brave
 
-![brave](./assets/icons/96x96/brave.png)
+[![brave](./assets/icons/96x96/brave.png)](https://brave.com/)
 
 [🌐 Website](https://brave.com/)
 
@@ -109,7 +109,7 @@ Google as a search engine has its advantages. The user interface is nice to work
 
 ### The better alternative: DuckDuckGo
 
-![duckduckgo](./assets/icons/96x96/duckduckgo.png)
+[![duckduckgo](./assets/icons/96x96/duckduckgo.png)](https://duckduckgo.com/about)
 
 [🌐 Website](https://duckduckgo.com/about)
 
@@ -137,7 +137,7 @@ Always make sure that there are only green checkmarks in the Windows Defender. I
 
 ### A simple tool: PyDebloatX
 
-![pydebloatx](./assets/icons/96x96/pydebloatx.png)
+[![pydebloatx](./assets/icons/96x96/pydebloatx.png)](https://pydebloatx.com/)
 
 [🌐 Website](https://pydebloatx.com/)
 
@@ -147,7 +147,7 @@ PyDebloatX is a small tool which allows you to uninstall most of the default app
 
 ### Going to the next level: Windows10Debloater
 
-![powershell](./assets/icons/96x96/powershell.png)
+[![powershell](./assets/icons/96x96/powershell.png)](https://github.com/sycnex/windows10debloater)
 
 [🌐 Website](https://github.com/sycnex/windows10debloater)
 
@@ -159,7 +159,7 @@ My recommened options are to disable Cortana and edge PDF, then disable telemetr
 
 ### The final step: EdgeDeflector
 
-![edgedelfector](./assets/icons/96x96/edgedeflector.png)
+[![edgedelfector](./assets/icons/96x96/edgedeflector.png)](https://github.com/da2x/edgedeflector)
 
 [🌐 Website](https://github.com/da2x/edgedeflector)
 
