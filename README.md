@@ -2,30 +2,6 @@
 
 This document goes over the global lines of protecting you, your accounts and your data. Not all steps are required, but are recommended. Keep in mind that these changes will be different than your normal Chrome/Google configuration, and is selected to work as closely to that as possible.
 
-## Table of contents
-
-- [Security Notes - Dummy Guide](#security-notes---dummy-guide)
-  - [Table of contents](#table-of-contents)
-  - [Passwords and accounts](#passwords-and-accounts)
-    - [Password Manager: Bitwarden](#password-manager-bitwarden)
-    - [2FA - 2 Factor Authentication: Authy](#2fa---2-factor-authentication-authy)
-    - [Monitors on data breach: Firefox Monitor](#monitors-on-data-breach-firefox-monitor)
-  - [Browser](#browser)
-    - [1st browser of choice: Firefox](#1st-browser-of-choice-firefox)
-      - [Firefox Settings](#firefox-settings)
-      - [Firefox extensions](#firefox-extensions)
-    - [2nd browser of choice: Brave](#2nd-browser-of-choice-brave)
-      - [Brave settings](#brave-settings)
-      - [Brave extensions](#brave-extensions)
-  - [Search engine](#search-engine)
-    - [The better alternative: DuckDuckGo](#the-better-alternative-duckduckgo)
-  - [Windows](#windows)
-    - [Settings menu](#settings-menu)
-    - [Windows Defender](#windows-defender)
-    - [A simple tool: PyDebloatX](#a-simple-tool-pydebloatx)
-    - [Going to the next level: Windows10Debloater](#going-to-the-next-level-windows10debloater)
-    - [The final step: EdgeDeflector](#the-final-step-edgedeflector)
-
 ## Passwords and accounts
 
 One of the most important things to do is to ensure that all accounts are safe. This can simply be done by making your passwords very difficult to crack. But then you must remember all of them. That's what a password manager if for. It automatically fills everything in for you. 2 factor authentication is also an important step towards safety.
