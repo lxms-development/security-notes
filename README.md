@@ -18,7 +18,7 @@ Because the data is encrypted on your own device, even Bitwarden doesn't know th
 
 ![bitwarden](./assets/bitwarden/bitwarden.png)
 
-### 2FA - 2 Factor Authentication: [Authy](https://authy.com/)
+### 2FA - 2 Factor Authentication: Authy
 
 ![authy](./assets/icons/96x96/authy.png)
 
