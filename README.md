@@ -18,21 +18,21 @@ Because the data is encrypted on your own device, even Bitwarden doesn't know th
 
 ![bitwarden](./assets/bitwarden/bitwarden.png)
 
-### 2FA - 2 Factor Authentication: Authy
+### 2FA (2 Factor Authentication): AuthenticatorPro
 
-[![authy](./assets/icons/96x96/authy.png)](https://authy.com/)
+[![authenticatorpro](./assets/icons/96x96/authenticatorpro.png)](https://github.com/jamie-mh/AuthenticatorPro/)
 
-[🌐 Website](https://authy.com/)
+[🌐 Website](https://github.com/jamie-mh/AuthenticatorPro/)
 
 2FA is a technology that takes security to the next level. When you normally log in with only a password, you must now also fill in a number code. This code changes every 30 seconds. As a result, your account is safer and less likely to be hacked.
 
-Authy is a program where you can save these codes. If a service or website supports 2FA, you will be asked for an authentication app. Usually Google authenticator is recommended, but Authy is not from Google, and therefore has my preference.
+AuthenticatorPro is a program where you can save these codes. If a service or website supports 2FA, you can enable it by scanning a QR code with AuthenticatorPro. Google Authenticator and Authy are also good options, but Google Authenticator is, well, from Google. And Authy has a proprietary license. That means the code is closed-source. Twilio, the owner of Authy, is way better then Google if it goes about privacy. But with open-source you know exactly what's going on. That's why i recommend this app instead of Google Authenticator or Authy.
 
 If you use 2FA, always take your phone with you. **You can't get into your account without 2FA if it's turned on. The only way is with backup codes. Do not lose those.** 2FA can be turned off again.
 
 *2FA can also be in the app of Bitwarden, but still needs an authentication app for the 2FA of the program itself. It is also a paid feature and not included in the free plan.*
 
-![authy](./assets/authy/authy.png)
+![authenticatorpro](./assets/authenticatorpro/homescreen.png)
 
 ### Monitors on data breach: Firefox Monitor
 
@@ -137,9 +137,9 @@ Always make sure that there are only green checkmarks in the Windows Defender. I
 
 ### A simple tool: PyDebloatX
 
-[![pydebloatx](./assets/icons/96x96/pydebloatx.png)](https://pydebloatx.com/)
+[![pydebloatx](./assets/icons/96x96/pydebloatx.png)](https://github.com/Teraskull/PyDebloatX/)
 
-[🌐 Website](https://pydebloatx.com/)
+[🌐 Website](https://github.com/Teraskull/PyDebloatX/)
 
 PyDebloatX is a small tool which allows you to uninstall most of the default apps that Windows comes with. Just check the items you want to remove, and click `Uninstall`. The program will do the rest fro you. If you decide that you want to reinstall an app, just click the button of the Windows Store on the side, and you'll be redirected to the Microsoft Store page of that app.
 
